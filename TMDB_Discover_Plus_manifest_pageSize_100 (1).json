@@ -1,0 +1,814 @@
+{
+  "id": "community.tmdb.discover.plus.stable",
+  "name": "TMDB Discover+ - +",
+  "description": "Create custom movie and TV catalogs with powerful TMDB filters",
+  "version": "2.10.5+7efd75fd944d",
+  "logo": "https://tmdb-discover-plus.elfhosted.com/logo.png",
+  "idPrefixes": [
+    "tmdb:",
+    "tt",
+    "mal:",
+    "kitsu:",
+    "anilist:",
+    "anidb:"
+  ],
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series",
+    "anime"
+  ],
+  "catalogs": [
+    {
+      "id": "anilist-33a95be8-6c90-4af6-92b0-797712f0823d",
+      "type": "anime",
+      "name": "BEST ANIMES",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Fantasy",
+            "Horror",
+            "Mahou Shoujo",
+            "Mecha",
+            "Music",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Sci-Fi",
+            "Slice of Life",
+            "Sports",
+            "Supernatural",
+            "Thriller"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "imdb-fefb322f-1a6d-4af1-b5c4-781ee739df82",
+      "type": "series",
+      "name": "ANIMES PUNTAJE ALTO",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adult",
+            "Adventure",
+            "Animation",
+            "Biography",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Film-Noir",
+            "Game-Show",
+            "History",
+            "Horror",
+            "Music",
+            "Musical",
+            "Mystery",
+            "News",
+            "Reality-Tv",
+            "Romance",
+            "Sci-Fi",
+            "Short",
+            "Sport",
+            "Talk-Show",
+            "Thriller",
+            "War",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-4a9ec9b5-0ed8-47b1-beed-cd3840501c9b",
+      "type": "series",
+      "name": "ANIMES PARA DESCUBRIR",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action & Adventure"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-61b4ae7c-f9c0-4398-b867-5f1d89bdfb62",
+      "type": "series",
+      "name": "Animes en Emisión",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Kids",
+            "Mystery",
+            "News",
+            "Reality",
+            "Sci-Fi & Fantasy",
+            "Soap",
+            "Talk",
+            "War & Politics",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-9c63ed47-58a6-4655-b730-48e6ac3c29de",
+      "type": "series",
+      "name": "Medieval Series",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action & Adventure",
+            "Drama",
+            "Sci-Fi & Fantasy"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "anilist-ec70ecad-4caf-4499-916f-f516ab6e8c17",
+      "type": "anime",
+      "name": "Medieval Anime",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Fantasy",
+            "Horror",
+            "Mahou Shoujo",
+            "Mecha",
+            "Music",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Sci-Fi",
+            "Slice of Life",
+            "Sports",
+            "Supernatural",
+            "Thriller"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-405f014a-db40-4c21-904b-ed3e0b384074",
+      "type": "series",
+      "name": "Series Trending HOY",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Kids",
+            "Mystery",
+            "News",
+            "Reality",
+            "Sci-Fi & Fantasy",
+            "Soap",
+            "Talk",
+            "War & Politics",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-8bd9b7dd-ab22-46b3-a4be-ca8a12511d6d",
+      "type": "movie",
+      "name": "Medieval Animados",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Adventure",
+            "Animation",
+            "Fantasy",
+            "History"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-a4e3e4cb-bd89-41eb-bfdb-aa6393c18ffa",
+      "type": "movie",
+      "name": "Joyas Ocultas",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Science Fiction",
+            "Thriller",
+            "TV Movie",
+            "War",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-52b28ae4-f37f-43b4-aeb8-e7cc170d62ca",
+      "type": "movie",
+      "name": "Peliculas Mejor Valoradas",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Science Fiction",
+            "Thriller",
+            "TV Movie",
+            "War",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-da055534-1267-494d-9764-2dfeabc74eea",
+      "type": "movie",
+      "name": "Post-Apocaliptico Peliculas",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Science Fiction"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-e726164a-3b1c-48a1-b465-809122d1ba27",
+      "type": "series",
+      "name": "Post-Apocaliptico Series",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Sci-Fi & Fantasy"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-42203018-1ba0-476c-85ce-2c80bfc0fd79",
+      "type": "movie",
+      "name": "Espionaje Peliculas",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Thriller"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-d862d740-5b03-4185-b0b3-c3ce7b33a32a",
+      "type": "series",
+      "name": "Animes Emision",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Kids",
+            "Mystery",
+            "News",
+            "Reality",
+            "Sci-Fi & Fantasy",
+            "Soap",
+            "Talk",
+            "War & Politics",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-7f60c87c-b882-4b41-afb3-e5e13219863b",
+      "type": "series",
+      "name": "Telenovelas",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Drama"
+          ],
+          "optionsLimit": 1,
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-c633f29a-d666-4d40-894d-9e0fd99db9e5",
+      "type": "series",
+      "name": "echhi animes",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Kids",
+            "Mystery",
+            "News",
+            "Reality",
+            "Sci-Fi & Fantasy",
+            "Soap",
+            "Talk",
+            "War & Politics",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-ffc3ca1f-b10f-496b-8b31-a19e6e72e11a",
+      "type": "movie",
+      "name": "Terror Peliculas",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Horror"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-f110c080-bc54-4c91-b500-5937bcf7ab83",
+      "type": "series",
+      "name": "ecchi",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Kids",
+            "Mystery",
+            "News",
+            "Reality",
+            "Sci-Fi & Fantasy",
+            "Soap",
+            "Talk",
+            "War & Politics",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-45e908e8-5341-4766-b4bd-936f35058192",
+      "type": "movie",
+      "name": "Ciencia Ficcion Peliculas",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Science Fiction"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-23fe80f4-f707-4603-b01c-94112c29f235",
+      "type": "series",
+      "name": "yuri anime",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action & Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Kids",
+            "Mystery",
+            "News",
+            "Reality",
+            "Sci-Fi & Fantasy",
+            "Soap",
+            "Talk",
+            "War & Politics",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-8e9e4543-d98a-4a8c-8e4b-92bd8da22b19",
+      "type": "movie",
+      "name": "Peliculas Anime",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Science Fiction",
+            "Thriller",
+            "TV Movie",
+            "War",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "imdb-6cb016c8-490e-467c-81c9-124a83ff71b2",
+      "type": "movie",
+      "name": "PELICULAS",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adult",
+            "Adventure",
+            "Animation",
+            "Biography",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Film-Noir",
+            "Game-Show",
+            "History",
+            "Horror",
+            "Music",
+            "Musical",
+            "Mystery",
+            "News",
+            "Reality-Tv",
+            "Romance",
+            "Sci-Fi",
+            "Short",
+            "Sport",
+            "Talk-Show",
+            "Thriller",
+            "War",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-c7cbb64a-8d57-4ff5-8c16-a8239f4f7dbf",
+      "type": "movie",
+      "name": "Peliculas Trending HOY",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Science Fiction",
+            "Thriller",
+            "TV Movie",
+            "War",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-7397f816-301f-454c-905b-877c54047db0",
+      "type": "movie",
+      "name": "2",
+      "pageSize": 100,
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "All",
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Science Fiction",
+            "Thriller",
+            "TV Movie",
+            "War",
+            "Western"
+          ],
+          "optionsLimit": 1,
+          "isRequired": false
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-search-movie",
+      "type": "movie",
+      "name": "TMDB Search",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-search-series",
+      "type": "series",
+      "name": "TMDB Search",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": true
+        },
+        {
+          "name": "skip"
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "configurable": true,
+    "configurationRequired": false,
+    "newEpisodeNotifications": true
+  }
+}
