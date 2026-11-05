@@ -90,7 +90,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/discover/for-you/v2/for-you-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/AhoraNuvio/title/estreno.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/AhoraNuvio/cover/estrenos.webp",
@@ -114,7 +114,7 @@
             "catalogId": "mdblist.75824"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/AhoraNuvio/hero/estreno.webp"
       },
       {
@@ -170,7 +170,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/discover/for-you/v2/for-you-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_recomendados_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_recomendados_cover.jpg",
@@ -194,7 +194,7 @@
             "catalogId": "mdblist.8115"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_recomendados_backdrop.jpg"
       },
       {
@@ -235,7 +235,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/discover/top-streaming-movies/v2/top-streaming-movies-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_tendencia_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_tendencia_cover.jpg",
@@ -253,7 +253,7 @@
             "catalogId": "tmdb.trending_series"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_tendencia_backdrop.jpg"
       },
       {
@@ -369,7 +369,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/discover/top-streaming-series/v2/top-streaming-series-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_ranking_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_ranking_cover.jpg",
@@ -417,7 +417,7 @@
             "catalogId": "mdblist.75824"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_ranking_backdrop.jpg"
       },
       {
@@ -488,7 +488,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/discover/top-streaming-movies/v2/top-streaming-movies-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_popular_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_popular_cover.jpg",
@@ -518,7 +518,7 @@
             "catalogId": "mdblist.official.popular"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/ahora_en_nuvio_popular_backdrop.jpg"
       }
     ],
@@ -1768,7 +1768,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/netflix/netflix-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_netflix_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_netflix_cover.jpg",
@@ -1816,7 +1816,7 @@
             "catalogId": "streaming_netflix_originals_series"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_netflix_backdrop.jpg"
       },
       {
@@ -3055,7 +3055,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/hbo-max/hbo-max-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_hbo_max_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_hbo_max_cover.jpg",
@@ -3103,7 +3103,7 @@
             "catalogId": "streaming_hbo_originals_series"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_hbo_max_backdrop.jpg"
       },
       {
@@ -4323,7 +4323,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/disney-plus/disney-plus-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_disney_plus_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_disney_plus_cover.jpg",
@@ -4383,7 +4383,7 @@
             "catalogId": "streaming_disney_originals_series"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_disney_plus_backdrop.jpg"
       },
       {
@@ -5622,7 +5622,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/prime-video/prime-video-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_prime_video_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_prime_video_cover.jpg",
@@ -5670,7 +5670,7 @@
             "catalogId": "streaming_prime_originals_series"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_prime_video_backdrop.jpg"
       },
       {
@@ -6879,7 +6879,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/paramount-plus/paramount-plus-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_paramount_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_paramount_cover.jpg",
@@ -6927,7 +6927,7 @@
             "catalogId": "streaming_paramount_originals_series"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_paramount_backdrop.jpg"
       },
       {
@@ -8004,7 +8004,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/apple-tv/apple-tv-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_apple_tv_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_apple_tv_cover.jpg",
@@ -8052,7 +8052,7 @@
             "catalogId": "streaming_apple_originals_series"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_apple_tv_backdrop.jpg"
       },
       {
@@ -8477,7 +8477,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/crunchyroll/crunchyroll-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_crunchyroll_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_crunchyroll_cover.jpg",
@@ -8519,7 +8519,7 @@
             "catalogId": "tmdb.discover.series.streaming.crunchyroll"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/plataformas_de_streaming_crunchyroll_backdrop.jpg"
       },
       {
@@ -10863,12 +10863,12 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/amc-plus/amc-plus-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/collections/providers/526-amc/logos/color/4661_amc_1.png",
         "coverImageUrl": "https://image.tmdb.org/t/p/w500/ovmu6uot1XVvsemM2dDySXLiX57.jpg",
         "catalogSources": [],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/collections/providers/526-amc/backdrops/t2_flat_1080p.jpg"
       },
       {
@@ -11661,7 +11661,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/criterion-channel/criterion-channel-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/258-criterion-channel/logos/white/258_white_1.png",
         "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/3bd59373.webp",
@@ -11971,7 +11971,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/curiosity-stream/curiosity-stream-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/CuriosityStream.svg/960px-CuriosityStream.svg.png?_=20200418093832",
         "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/7bec8cc8.webp",
@@ -14169,7 +14169,7 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/mubi/mubi-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/companies/204957-mubi/logos/white/204957_white_2.png",
         "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/7c4bd708.webp",
@@ -16559,12 +16559,12 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/pluto-tv/pluto-tv-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/500px-Pluto_TV_logo_2024.svg.png",
         "coverImageUrl": "https://image.tmdb.org/t/p/w500/dB8G41Q6tSL5NBisrIeqByfepBc.jpg",
         "catalogSources": [],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/collections/providers/300-pluto-tv/backdrops/t2_flat_1080p.jpg"
       },
       {
@@ -19279,12 +19279,12 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/tubi/tubi-hover.gif",
+        "focusGifUrl": "",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/collections/companies/153734-tubi/logos/color/153734_color_1.png",
         "coverImageUrl": "https://image.tmdb.org/t/p/w500/zLYr7OPvpskMA4S79E3vlCi71iC.jpg",
         "catalogSources": [],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-assets/main/collections/companies/153734-tubi/backdrops/t2_flat_1080p.jpg"
       }
     ],
@@ -26630,7 +26630,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/anime/discover-anime/discover-anime-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_novedades_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_novedades_cover.jpg",
@@ -26654,7 +26654,7 @@
             "catalogId": "mdblist.2483"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_novedades_backdrop.jpg"
       },
       {
@@ -26740,7 +26740,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/anime/discover-anime/discover-anime-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_descubre_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_descubre_cover.jpg",
@@ -26776,7 +26776,7 @@
             "catalogId": "mdblist.84350"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_descubre_backdrop.jpg"
       },
       {
@@ -26892,7 +26892,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/anime/studio-spotlight/studio-spotlight-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_estudios_logo.png",
         "coverImageUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_estudios_cover.jpg",
@@ -26940,7 +26940,7 @@
             "catalogId": "mdblist.194733"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Svein05/NuvioLatinoSetup@main/assets/collections/anime_estudios_backdrop.jpg"
       },
       {
@@ -31628,7 +31628,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/kids-and-family/saturday-morning-and-nostalgic-cartoons/v2/saturday-morning-and-nostalgic-cartoons-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-05-bfdb616e-058b-44c4-878a-563e57679b2b.webp",
@@ -31646,7 +31646,7 @@
             "catalogId": "tmdb.discover.series.60s_animated_tv_shows.mr6xakhz"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-05-9316c0c4-3ea9-4471-8a0f-f28c7bd17108.webp"
       },
       {
@@ -31687,7 +31687,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/kids-and-family/saturday-morning-and-nostalgic-cartoons/v2/saturday-morning-and-nostalgic-cartoons-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-05-1589a8b3-0550-4c27-8257-dbd78eab2b87.webp",
@@ -31705,7 +31705,7 @@
             "catalogId": "tmdb.discover.series.70s_animated_tv_shows.mr6xau5x"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-05-0565ecd2-d521-43e1-b1fc-068075eab611.webp"
       },
       {
@@ -31746,7 +31746,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/80s-and-90s-vibes/v2/80s-and-90s-vibes-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-05-69e72b3e-4812-416d-aabe-af40fc87325c.webp",
@@ -31764,7 +31764,7 @@
             "catalogId": "tmdb.discover.series.80s_animated_tv_shows.mr6xb5e9"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-05-94e6ebf0-f919-4acf-ad1e-797d70a60232.webp"
       },
       {
@@ -31805,7 +31805,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/80s-and-90s-vibes/v2/80s-and-90s-vibes-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-05-beb70353-d1c5-4138-b764-1fcafa0cc512.webp",
@@ -31823,7 +31823,7 @@
             "catalogId": "tmdb.discover.series.90s_animated_tv_shows.mr6xbezm"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-05-cae6a649-1490-481f-93b3-5e9cde8f7ca3.webp"
       },
       {
@@ -31864,7 +31864,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/kids-and-family/saturday-morning-and-nostalgic-cartoons/v2/saturday-morning-and-nostalgic-cartoons-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-05-bdf620f3-c604-4719-9ed6-86fc0abd07f7.webp",
@@ -31882,7 +31882,7 @@
             "catalogId": "tmdb.discover.series.2000s_animated_shows.mrfbvfuz"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-05-f8255346-96f6-4c09-afe2-4656eb2958a0.webp"
       },
       {
@@ -31923,7 +31923,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/kids-and-family/saturday-morning-and-nostalgic-cartoons/v2/saturday-morning-and-nostalgic-cartoons-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-05-f158ae49-2970-4705-9ec9-47984a5c40ce.webp",
@@ -31941,7 +31941,7 @@
             "catalogId": "tmdb.discover.series.2010s_animated_shows.mrfbw9i4"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-05-16a006e8-2d9b-4a2c-ac4b-8160e9cc3476.webp"
       },
       {
@@ -31982,7 +31982,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/kids-and-family/saturday-morning-and-nostalgic-cartoons/v2/saturday-morning-and-nostalgic-cartoons-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-05-384533cd-24e5-4553-8993-514deb8f5c9f.webp",
@@ -32000,7 +32000,7 @@
             "catalogId": "tmdb.discover.series.2020s_animated_shows.mrfbxyt3"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-05-62413c20-dc9c-4d43-b436-6f15d24022d1.webp"
       }
     ],
@@ -34963,7 +34963,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/international/japanese-cinema/japanese-cinema-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-11-6f8c3c99-2f5d-46b0-8d1d-0057a1b41776.jpg",
@@ -34981,7 +34981,7 @@
             "catalogId": "tmdb.discover.series.japan_shows.mrgj1m2g"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-11-d205fb4d-d23e-494d-8d77-a87f32fd6521.jpg"
       },
       {
@@ -35022,7 +35022,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/international/french-cinema/french-cinema-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-11-1b135bc0-3877-4920-9bf4-05013032b4fa.jpg",
@@ -35040,7 +35040,7 @@
             "catalogId": "tmdb.discover.series.france_shows.mrgj4pcz"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-11-53c70baa-4595-45a9-977b-0044ae9b4531.jpg"
       },
       {
@@ -35081,7 +35081,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/international/south-korean-cinema/south-korean-cinema-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-11-721e5b12-fd9e-4d8c-85c9-316d2c43de06.jpg",
@@ -35099,7 +35099,7 @@
             "catalogId": "tmdb.discover.series.south_korea_shows.mrgj6w1p"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-11-229550bb-cbd8-4ecc-aef0-a67374cd22e0.jpg"
       },
       {
@@ -35140,7 +35140,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/international/russian-cinema/russian-cinema-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-11-917e7efe-ef0b-4954-8ce9-caeb34d0fa9f.jpg",
@@ -35158,7 +35158,7 @@
             "catalogId": "tmdb.discover.series.russia_shows.mrgjamx0"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-11-c2b822c7-d9af-40a0-8631-8f45a3611b7c.jpg"
       },
       {
@@ -35199,7 +35199,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/international/chinese-cinema/chinese-cinema-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-11-463a5222-7ecf-423a-b543-ec43db10f168.jpg",
@@ -35217,7 +35217,7 @@
             "catalogId": "tmdb.discover.series.china_shows.mrgjd9eu"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-11-06b24499-5820-4c96-b619-59c037dc4a89.jpg"
       },
       {
@@ -35258,7 +35258,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/international/polish-cinema/polish-cinema-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-11-f4f58f2a-b2a5-4482-a02a-6a4af77c4a01.jpg",
@@ -35276,7 +35276,7 @@
             "catalogId": "tmdb.discover.series.poland_shows.mrgjfwkt"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-11-a9eb4efe-8837-4075-b5ae-8f5f30defd98.jpg"
       },
       {
@@ -35317,7 +35317,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/international/mexican-cinema/mexican-cinema-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-11-66f71d38-0bed-47a4-8ca3-9a7df7195daa.jpg",
@@ -35335,7 +35335,7 @@
             "catalogId": "tmdb.discover.series.mexico_shows.mrgjiy0m"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-11-b75e6acd-e31b-429c-aabf-f941fc254cba.jpg"
       },
       {
@@ -35376,7 +35376,7 @@
         "hideTitle": true,
         "tileShape": "SQUARE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/international/belgian-cinema/belgian-cinema-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": null,
         "coverImageUrl": "https://cdn.phototourl.com/pro/2026-07-11-ea07c387-026f-487a-9032-f1eac9f391bd.jpg",
@@ -35394,7 +35394,7 @@
             "catalogId": "tmdb.discover.series.belgium_shows.mrgjkh4b"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://cdn.phototourl.com/pro/2026-07-11-9e75f7d8-f1a4-42e6-84cb-fe232e03efce.jpg"
       }
     ],
@@ -35506,7 +35506,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🆕",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/spooky-and-creepy/v2/spooky-and-creepy-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5OT1ZFREFERVM8L3RleHQ+Cjwvc3ZnPg==",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh.jfif",
@@ -35634,7 +35634,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/horror/v2/horror-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5MTyBNRUpPUjwvdGV4dD4KPC9zdmc+",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(1).jfif",
@@ -35756,7 +35756,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🔪",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/documentaries/true-crime-and-serial-killers/v2/true-crime-and-serial-killers-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5TTEFTSEVSPC90ZXh0Pgo8L3N2Zz4=",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(2).jfif",
@@ -35863,7 +35863,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "👻",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/spooky-and-creepy/v2/spooky-and-creepy-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iODkiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5TT0JSRU5BVFVSQUw8L3RleHQ+Cjwvc3ZnPg==",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(3).jfif",
@@ -35934,7 +35934,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/horror/v2/horror-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5aT01CSUU8L3RleHQ+Cjwvc3ZnPg==",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(4).jfif",
@@ -36023,7 +36023,7 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🧛",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/dark-and-gritty/v2/dark-and-gritty-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://cdn.jsdelivr.net/gh/luckynumb3rs/stremio-perfect-setup/collections/themes/title/vampire.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(5).jfif",
@@ -36109,7 +36109,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "😈",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/spooky-and-creepy/v2/spooky-and-creepy-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5PQ1VMVElTTU88L3RleHQ+Cjwvc3ZnPg==",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(6).jfif",
@@ -36204,7 +36204,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🧠",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/mind-bending/v2/mind-bending-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5QU0lDT0zDk0dJQ088L3RleHQ+Cjwvc3ZnPg==",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(7).jfif",
@@ -36305,7 +36305,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🌌",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/mind-bending/v2/mind-bending-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5Dw5NTTUlDTzwvdGV4dD4KPC9zdmc+",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(8).jfif",
@@ -36391,7 +36391,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🏚️",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/crime/v2/crime-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5JTlZBU0nDk048L3RleHQ+Cjwvc3ZnPg==",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(9).jfif",
@@ -36486,7 +36486,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "👹",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/horror/v2/horror-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5DUklBVFVSQVM8L3RleHQ+Cjwvc3ZnPg==",
         "coverImageUrl": "https://media3.giphy.com/media/PUxKxPJtAAiEu4WOjd/giphy.gif",
@@ -36587,7 +36587,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🎬",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/slow-burn/v2/slow-burn-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/img2/Gemini_Generated_Image_50v2nf50v2nf50v2%20(1).jfif",
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iOTIiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5FU1RVRElPUzwvdGV4dD4KPC9zdmc+",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(10).jfif",
@@ -36688,7 +36688,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "🌏",
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/moods-and-vibes/spooky-and-creepy/v2/spooky-and-creepy-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTUwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjE1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmM2IzMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2IzMDAxYiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0YTAwMDkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZUZsb29kIGZsb29kLWNvbG9yPSIjZmYyYjJiIiBmbG9vZC1vcGFjaXR5PSIwLjg1Ii8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbjI9ImJsdXIiIG9wZXJhdG9yPSJpbiIgcmVzdWx0PSJnbG93Ii8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iZ2xvdyIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iMzAwIiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIKICAgICAgICBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iODMiCiAgICAgICAgbGV0dGVyLXNwYWNpbmc9IjQiIGZpbGw9InVybCgjZ3JhZCkiIHN0cm9rZT0iIzFhMDAwMCIgc3Ryb2tlLXdpZHRoPSIyLjUiCiAgICAgICAgZmlsdGVyPSJ1cmwoI2dsb3cpIj5JTlRFUk5BQ0lPTkFMPC90ZXh0Pgo8L3N2Zz4=",
         "coverImageUrl": "https://raw.githubusercontent.com/eliasdaniel20158/Nuvio/refs/heads/main/img/Gemini_Generated_Image_l2nhbml2nhbml2nh%20(11).jfif",
@@ -40744,7 +40744,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/action/v2/action-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/accion.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/accion.webp",
@@ -40774,7 +40774,7 @@
             "catalogId": "mdblist.128029"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/accion.webp"
       },
       {
@@ -40845,7 +40845,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/drama/v2/drama-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/drama.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/drama.webp",
@@ -40875,7 +40875,7 @@
             "catalogId": "mdblist.128044"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/drama.webp"
       },
       {
@@ -40961,7 +40961,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/comedy/v2/comedy-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/comedia.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/comedia.webp",
@@ -40997,7 +40997,7 @@
             "catalogId": "mdblist.101648"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/comedia.webp"
       },
       {
@@ -41053,7 +41053,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/thriller/v2/thriller-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/suspenso.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/suspenso.webp",
@@ -41077,7 +41077,7 @@
             "catalogId": "mdblist.101636"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/suspenso.webp"
       },
       {
@@ -41148,7 +41148,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/horror/v2/horror-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/terror.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/terror.webp",
@@ -41178,7 +41178,7 @@
             "catalogId": "mdblist.128046"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/terror.webp"
       },
       {
@@ -41249,7 +41249,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/fantasy/v2/fantasy-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/fantasia.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/fantasia.webp",
@@ -41279,7 +41279,7 @@
             "catalogId": "mdblist.128048"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/fantasia.webp"
       },
       {
@@ -41365,7 +41365,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/romance/v2/romance-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/romance.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/romance.webp",
@@ -41401,7 +41401,7 @@
             "catalogId": "mdblist.128265"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/romance.webp"
       },
       {
@@ -41487,7 +41487,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/animation/v2/animation-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/animacion.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/animacion.webp",
@@ -41523,7 +41523,7 @@
             "catalogId": "mdblist.84402"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/animacion.webp"
       },
       {
@@ -41725,7 +41725,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/documentary/v2/documentary-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/documental.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/documental.webp",
@@ -41767,7 +41767,7 @@
             "catalogId": "mdblist.157933"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/documental.webp"
       },
       {
@@ -41838,7 +41838,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/western/v2/western-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/oeste.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/oeste.webp",
@@ -41868,7 +41868,7 @@
             "catalogId": "mdblist.50268"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/oeste.webp"
       },
       {
@@ -41924,7 +41924,7 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": null,
-        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/genres/crime/v2/crime-hover.gif",
+        "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/title/mafia.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/cover/mafia.webp",
@@ -41948,7 +41948,7 @@
             "catalogId": "mdblist.123193"
           }
         ],
-        "focusGifEnabled": true,
+        "focusGifEnabled": false,
         "heroBackdropUrl": "https://raw.githubusercontent.com/elillod22/Nuvio-Images/refs/heads/main/NuvioColection/Generos/hero/mafia.webp"
       },
       {
